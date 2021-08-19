@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Logs
 logs
 *.log
@@ -74,3 +75,5 @@ typings/
 
 # FuseBox cache
 .fusebox/
+=======
+remotes/origin/master
